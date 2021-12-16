@@ -1,0 +1,10 @@
+edge (0,4) =1211
+edge (1,4) =944
+edge (1,8) =353
+edge (1,9) =818
+edge (2,3) =780
+edge (3,7) =833
+edge (4,6) =600
+edge (4,7) =479
+edge (5,8) =70
+Total amount of edges inserted: 9
